@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Sarthak2700&color=0000FF)
-### Hi there, This is Hello, I am Sarthak Nahar 
+### Hello there, I am Sarthak Nahar 
 and I am an undergrad at SRMIST, Chennai and currently in my 6th semester of BTech CSE with specialisation in AI & ML. 
   I am always looking forward to new challenges in order to learn and grow.  Always looking
 for inspiration!
