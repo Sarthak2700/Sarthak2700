@@ -22,7 +22,7 @@ for inspiration!
 
 
  <img src="https://github.com/Sarthak2700/Sarthak2700/blob/main/8f5a3b5f3ac5ad44-sticker.png" img align="right" width=37% height=37%>
- <img src="https://github-readme-stats.vercel.app/api?username=sarthak2700&theme=react&hide_border=false&include_all_commits=true&count_private=true" img align="left"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Sarthak2700&theme=react&hide_border=false&include_all_commits=true&count_private=true" img align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2700&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
  
  ---
