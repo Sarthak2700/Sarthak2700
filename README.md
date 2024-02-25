@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=sarthak2700&icon=3&color=0)](https://visitcount.itsvg.in)
+
 
 ## Hello there, I am Sarthak Nahar 
 and I am an undergrad at SRMIST, Chennai and currently in my 6th semester of BTech CSE with specialisation in AI & ML. 
@@ -11,9 +11,9 @@ for inspiration!
 <center>
     
 [![Email](https://img.shields.io/badge/-EMAIL-708090?style=for-the-badge&logo=gmail&logoColor=white&text=white)](mailto:sarthaknahar@icloud.com?subject=[GitHub])
-[![Github](https://img.shields.io/badge/github-6699CC.svg?style=for-the-badge&logo=github&logoColor=white&textColor=white)](https://www.github.com/Sarthak2700)
+[![Github](https://img.shields.io/badge/github-87CEEB.svg?style=for-the-badge&logo=github&logoColor=white&textColor=white)](https://www.github.com/Sarthak2700)
 [![Instagram](https://img.shields.io/badge/instagram-708090.svg?style=for-the-badge&logo=instagram&logoColor=white&textColor=white)](https://www.instagram.com/vastav_11)
-[![Twitter](https://img.shields.io/badge/twitter-6699CC.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SarthakNahar1/)
+[![Twitter](https://img.shields.io/badge/twitter-87CEEB.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SarthakNahar1/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-708090?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-nahar-sn112702/)
 
 ---
