@@ -1,4 +1,7 @@
 
+[![](https://visitcount.itsvg.in/api?id=Sarthak2700&icon=6&color=12)](https://visitcount.itsvg.in)
+
+
 
 ## Hello there, I am Sarthak Nahar 
 and I am an undergrad at SRMIST, Chennai and currently in my 6th semester of BTech CSE with specialisation in AI & ML. 
