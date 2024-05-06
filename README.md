@@ -33,6 +33,7 @@ an undergraduate studying BTech CSE with a specialization on AI & ML at SRMIST, 
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
