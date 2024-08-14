@@ -4,7 +4,7 @@
 
 
 ## Hey there, I'm Sarthak Nahar, 
-an undergraduate studying BTech CSE with a specialization on AI & ML at SRMIST, Chennai. I'm now in my pre-final year of the degree.  
+an undergraduate studying BTech CSE with a specialization on AI & ML at SRMIST, Chennai.Currently in my final year.  
   I constantly look forward to new opportunities to grow and learn. In pursuit of inspiration at all times!
 - How to reach me:
     - Email: sarthaknahar@icloud.com
