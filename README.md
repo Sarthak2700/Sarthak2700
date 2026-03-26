@@ -4,10 +4,10 @@
 
 
 ## Hey there, I'm Sarthak Nahar, 
-an undergraduate studying BTech CSE with a specialization on AI & ML at SRMIST, Chennai.Currently in my final year.  
+a graduate student at Boston University, currently enrolled in MIM. my background is in CSE with a specialization on AI & ML at SRMIST, Chennai.  
   I constantly look forward to new opportunities to grow and learn. In pursuit of inspiration at all times!
 - How to reach me:
-    - Email: sarthaknahar@icloud.com
+    - Email: sarthaknahar100@gmail.com
     - Twitter:https://twitter.com/SarthakNahar1
     - LinkedIn:https://www.linkedin.com/in/sarthak-nahar-sn112702/
 <center>
